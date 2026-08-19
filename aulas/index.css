@@ -1,0 +1,3 @@
+body[data-page="aulas"] .page-banner {
+  background: linear-gradient(135deg, #24411f 0%, #315c2b 52%, #4d7640 100%);
+}

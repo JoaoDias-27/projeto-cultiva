@@ -1,0 +1,7 @@
+body[data-page="professor"] .page-banner {
+  background: linear-gradient(135deg, #352619 0%, #6b4a30 52%, #9f6a37 100%);
+}
+
+body[data-page="professor"] .site-header {
+  background: rgba(244, 241, 232, 0.94);
+}

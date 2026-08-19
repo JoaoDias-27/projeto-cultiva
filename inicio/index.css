@@ -1,0 +1,11 @@
+body[data-page="inicio"] .page-banner {
+  background: linear-gradient(135deg, #20361f 0%, #355f2d 56%, #6f8644 100%);
+}
+
+body[data-page="inicio"] .action-card:nth-child(2n) {
+  background: linear-gradient(180deg, #fffdf8 0%, #f1eadf 100%);
+}
+
+body[data-page="inicio"] .feature-card {
+  min-height: 220px;
+}
